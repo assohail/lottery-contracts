@@ -1,1 +1,3 @@
-# lottery
+# [Lottery](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+
+It has a prize pool and list of people who can participate in the pool as players. After certain no of players the manager can tell the contract to pick the winner. The contract will look at the players and will send all the prize pool money to the winner. The contract then resets itself and can be used to play again.
