@@ -13,13 +13,15 @@ It has a prize pool and list of people who can participate in the pool as player
 ### Getting Started
 ```
 > git clone https://github.com/assohail/lottery.git
-> cd kickStarter
+> cd lottery
 ```
 ### Url
 [Localhost: 127.0.0.1:3000](127.0.0.1:3000)
 
 ## Tasks Remaining
-- [ ] Test cases
+- [x] Contract Creation
+- [x] Testing on Remix  
+- [ ] Write Test Cases
 - [ ] Frontend
 - [ ] Cloud Deployment 
 
