@@ -34,5 +34,3 @@ Here is the list of packages and their purpose, used to build the app. Starter p
 * solc
 * web3
 
-## Notes 
-
